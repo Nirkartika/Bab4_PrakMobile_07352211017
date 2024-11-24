@@ -60,18 +60,17 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-      - assets/images/instagram.png
-      - assets/images/eunwoo.jpg
-      - assets/images/1.jpg
-      - assets/images/Renjun.jpg
-      - assets/images/jeno.jpg
-      - assets/images/Jaemin.jpg
-      - assets/images/Hechan.jpg
-      - assets/images/diskon.jpg
       - assets/images/Picture3.png
-      - assets/images/jualan.jpg
-      - assets/images/hadeh.jpg
-      - assets/images/tes.jpg
+      - assets/images/chef.png
+      - assets/images/logo.png
+      - assets/images/Bracelet.jpg
+      - assets/images/Jacket.jpg
+      - assets/images/Parfume.jpg
+      - assets/images/Hecan.jpg
+      - assets/images/Mark.jpg
+      - assets/images/Jungwoo.jpg
+      - assets/images/Jaehyun.jpg
+      - assets/images/dream.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
